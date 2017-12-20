@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">ActofitMachineTest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Fragment names -->
+    <string name="fragment_name_app_list">App List</string>
+    <string name="fragment_name_my_favourite">My Favourite</string>
 </resources>
